@@ -141,7 +141,6 @@ https://templatemo.com/tm-558-klassy-cafe
         </div>
     </div>
     <!-- ***** Main Banner Area End ***** -->
-
     <!-- ***** About Area Starts ***** -->
     <section class="section" id="about">
         <div class="container">
